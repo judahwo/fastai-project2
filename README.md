@@ -1,0 +1,1 @@
+This is an early model created for OGBB senior design project. It is a binary image classification model implemented using the fastai library. This model was used to predict the presence of cracks in still images. See the main Jupyter Notebook for code explainations. 
